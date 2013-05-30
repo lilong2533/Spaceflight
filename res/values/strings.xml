@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="app_name">航天PAD</string>
+	<string name="ok">确定</string>
+	<string name="cancel">取消</string>
+	<string name="confirm_exit">确认退出程序？</string>
+	<string name="folder_no_files">请在SD中存放将要展示的资料。当资料拷贝完成后，SD中的原始资料将会被删除。</string>
+	<string name="data_file_not_exist">没有可以使用的数据文件</string>
+	<string name="please_wait_for_data_copy">正在初始化数据，资源文件较大，请耐心等待 . . . </string>
+ 
+    <string name="first_page">首 页</string>
+    <string name="current_page">第%1$s页</string>
+    <string name="last_page">最后一页</string>
+ 
+	<string name="name_01">01_KaiPianJiYu</string>
+	<string name="name_02">02_FaXiangDi</string>
+	<string name="name_03">03_LiShiYanGe</string>
+	<string name="name_04">04_LingDaoGuanHuai</string>
+	<string name="name_05">05_ShouRenYuanZhang</string>
+	<string name="name_06">06_LiRenLingDao</string>
+	<string name="name_07">07_YuanShiFengCai</string>
+	<string name="name_08">08_DaGuoShenBing</string>
+	<string name="name_09">09_TianQiongShenJian</string>
+	<string name="name_10">10_MinYongChanYe</string>
+	<string name="name_11">11_HangTianJiaYuan</string>
+	<string name="name_12">12_JingCaiShunJian</string>
+	<string name="name_13">13_QiCaiHangTian</string>
+	<string name="name_14">14_KePuZhiShi</string>
+	<string name="name_15">15_BoLanHangTian</string>
+	<string name="name_16">16_HangTianJingShen</string>
+</resources>

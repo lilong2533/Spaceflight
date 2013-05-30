@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_space">20dp</dimen>
+    <dimen name="xml_minWidth">180dp</dimen>
+    <dimen name="xml_minHeight">180dp</dimen>
+    <dimen name="layoutWidth">180dp</dimen>
+    <dimen name="layoutHeight">180dp</dimen>
+</resources>

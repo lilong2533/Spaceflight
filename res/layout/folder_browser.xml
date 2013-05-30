@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:paddingTop="@dimen/top_space"
+	android:background="@drawable/background"
+	>
+	<RelativeLayout
+	    android:id="@+id/file_container"
+	    android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    >
+	    <GridView 
+		    android:id="@+id/my_gridview"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="fill_parent"
+		    android:gravity="center"
+		    android:listSelector="@drawable/grid_selector"
+		    />
+	</RelativeLayout>
+</LinearLayout>
